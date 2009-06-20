@@ -1,0 +1,42 @@
+D:\Studium\Digitale Bildbearbeitung\ImageProcessing\ColorFilter\ColorFilter\bin\Debug\ColorFilter.exe
+D:\Studium\Digitale Bildbearbeitung\ImageProcessing\ColorFilter\ColorFilter\bin\Debug\ColorFilter.pdb
+D:\Studium\Digitale Bildbearbeitung\ImageProcessing\ColorFilter\ColorFilter\obj\Debug\ResolveAssemblyReference.cache
+D:\Studium\Digitale Bildbearbeitung\ImageProcessing\ColorFilter\ColorFilter\obj\Debug\ColorFilter.frmMain.resources
+D:\Studium\Digitale Bildbearbeitung\ImageProcessing\ColorFilter\ColorFilter\obj\Debug\ColorFilter.Properties.Resources.resources
+D:\Studium\Digitale Bildbearbeitung\ImageProcessing\ColorFilter\ColorFilter\obj\Debug\ColorFilter.csproj.GenerateResource.Cache
+D:\Studium\Digitale Bildbearbeitung\ImageProcessing\ColorFilter\ColorFilter\obj\Debug\ColorFilter.exe
+D:\Studium\Digitale Bildbearbeitung\ImageProcessing\ColorFilter\ColorFilter\obj\Debug\ColorFilter.pdb
+D:\Studium\Digitale Bildbearbeitung\ImageProcessing\ColorFilter\ColorFilter\bin\Debug\Images\farbkreis.jpg
+D:\Studium\Digitale Bildbearbeitung\ImageProcessing\ColorFilter\ColorFilter\bin\Debug\Images\L-Figur.jpg
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\obj\Debug\ColorFilter.exe
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\obj\Debug\ColorFilter.pdb
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\obj\Debug\ResolveAssemblyReference.cache
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\obj\Debug\ColorFilter.frmMain.resources
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\obj\Debug\ColorFilter.Properties.Resources.resources
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\obj\Debug\ColorFilter.csproj.GenerateResource.Cache
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\bin\Debug\Images\farbkreis.jpg
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\bin\Debug\Images\L-Figur.jpg
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\bin\Debug\ColorFilter.exe
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\bin\Debug\ColorFilter.pdb
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\bin\Debug\Images\Fuenfeck.jpg
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\bin\Debug\Images\Dreick.jpg
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\bin\Debug\Images\Dreick_gross.jpg
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\bin\Debug\Images\Rechteck.jpg
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\bin\Debug\Images\Rechteck_klein.jpg
+D:\Studium\Digitale Bildbearbeitung\Project\ColorFilter\ColorFilter\bin\Debug\Images\Rechteck_schraeg.jpg
+C:\Dev\Project\ColorFilter\ColorFilter\obj\Debug\ColorFilter.exe
+C:\Dev\Project\ColorFilter\ColorFilter\obj\Debug\ColorFilter.pdb
+C:\Dev\Project\ColorFilter\ColorFilter\bin\Debug\Images\Dreick.jpg
+C:\Dev\Project\ColorFilter\ColorFilter\bin\Debug\Images\Dreick_gross.jpg
+C:\Dev\Project\ColorFilter\ColorFilter\bin\Debug\Images\farbkreis.jpg
+C:\Dev\Project\ColorFilter\ColorFilter\bin\Debug\Images\Fuenfeck.jpg
+C:\Dev\Project\ColorFilter\ColorFilter\bin\Debug\Images\L-Figur.jpg
+C:\Dev\Project\ColorFilter\ColorFilter\bin\Debug\Images\Rechteck.jpg
+C:\Dev\Project\ColorFilter\ColorFilter\bin\Debug\Images\Rechteck_klein.jpg
+C:\Dev\Project\ColorFilter\ColorFilter\bin\Debug\Images\Rechteck_schraeg.jpg
+C:\Dev\Project\ColorFilter\ColorFilter\bin\Debug\ColorFilter.exe
+C:\Dev\Project\ColorFilter\ColorFilter\bin\Debug\ColorFilter.pdb
+C:\Dev\Project\ColorFilter\ColorFilter\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Project\ColorFilter\ColorFilter\obj\Debug\ColorFilter.frmMain.resources
+C:\Dev\Project\ColorFilter\ColorFilter\obj\Debug\ColorFilter.Properties.Resources.resources
+C:\Dev\Project\ColorFilter\ColorFilter\obj\Debug\ColorFilter.csproj.GenerateResource.Cache
